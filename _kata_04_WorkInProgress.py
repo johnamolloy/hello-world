@@ -50,7 +50,7 @@ N = int(dt * fs)
 N = N - N % 2
 NN = int(N / 2)
 
-
+print("N: {0}".format(N))
 
 # - Display that period
 
